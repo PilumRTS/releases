@@ -9,4 +9,4 @@
 
 The game checks this repository for updates (`latest-mac.json`, `latest-windows.json`).
 
-**Feedback and bugs:** [Discord](https://discord.gg/pv4KJVRcn3) · [pilumrts.com](https://pilumrts.com) · [YouTube](https://www.youtube.com/@PilumRTS) · [X](https://x.com/PilumRTS) · info@pilumrts.com
+**Feedback and bugs:** [Discord](https://discord.gg/pv4KJVRcn3) · [pilumrts.com](https://pilumrts.com) · [YouTube](https://www.youtube.com/@PilumRTS) · [X](https://x.com/PilumRTS) · [Instagram](https://www.instagram.com/pilumrts/) · info@pilumrts.com
